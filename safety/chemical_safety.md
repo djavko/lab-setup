@@ -1,0 +1,35 @@
+[Harvard's Department of Chemistry and Chemical Biology safety manual](https://chemistry.harvard.edu/files/chemistry/files/2012_1_9_safetymanual1.pdf)
+# Safety trainings
+- Lab safety training
+- Hazardous waste training
+- Laser safety
+- Radiation safety
+- Biosafety/Bloodborne pathogens
+- Regulated biological materials
+- Dry ice shipping
+- Shipping chemicals/hazardous materials
+- Fire extinguishers training
+	- Required for individuals who work with flammable liquids or solids
+-Hazardous chemicals training
+	- Highly toxic solids, liquids, and gases
+	- highly corrosive compounds
+	- stench chemicals and lachrymators
+- Specialized hazardous chemicals training
+	- pyrohporic liquids
+	- pyrophoric solids
+	- pyrophoric gases
+	- potentially explosive substances
+- Prior approval chemicals
+	- dimethylmercury
+	- dimethylcadmium
+	- hydrofluoric acid (anhydrous)
+	- phosgene gas
+	- fluorine gas
+	- arsine gas
+	- diborane gas
+	- phosphine gas
+	- silane gas
+	- sodium-potassium alloy
+	- tetramethylammonium hydroxide
+
+-
