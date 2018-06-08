@@ -1,0 +1,69 @@
+% Cover letter using letter.cls
+\documentclass{letter}
+\usepackage{graphicx}
+\usepackage[a4paper,left=1.5cm, right=1.5cm, top=1cm, bottom=1cm]{geometry}
+%\textwidth=6.5in 
+\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\fontsize{}{}\bfseries}{\thesection}{}{}
+\titlespacing{\section}{0pt}{4pt plus 0pt minus 2pt}{0pt plus 2pt minus 2pt}
+
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+% the following commands control the margins:
+
+\signature{\vspace{-30pt}Zarko Boskovic}                  % name for signature 
+
+\begin{document}
+\begin{letter}{}
+
+\begin{minipage}{\textwidth}
+    \vspace{-1cm}
+    \begin{flushleft}
+    {\large\bf Zarko V. Boskovic, Ph.D.}
+    \end{flushleft}
+    \medskip\hrule height 1pt
+    \begin{flushright}
+    \hfill Department of Medicinal Chemistry \\
+    \hfill School of Pharmacy\\
+    \hfill University of Kansas\\
+    \hfill zarko@ku.edu\\
+    \end{flushright}
+\end{minipage}
+
+{Chemical Biology of Infectious Disease\\
+NIH Center for Biomedical Research Excellence\\
+University of Kansas\\
+Lawrence, KS}
+\begin{center}
+\textbf{COBRE Proposal Letter of Intent}\\
+\end{center}
+\opening{}
+\section{Eligibility criteria}
+I will assume the position of an assistant professor at the Department of Medicinal Chemistry, School of Pharmacy, University of Kansas, starting on July 29$^{th}$, 2018. I have previously not held any externally funded, peer-reviewed grants from Federal or non-Federal sources.\\
+\section{Nature or focus of the research}\\
+
+Prion protein, PrP, represents a unique infectious disease vector. It is a normally expressed protein whose precise role in brain is not completely understood. Certain variants of mutated PrP have been unequivocally implicated as causal agents of fatal familial insomnia, a disease that manifests itself as the final stage of a process that begins with improper folding of PrP. Genetic studies also indicate this protein as the main culprit of the disease and that lowering the amount of PrP early slows down the progression of the disease. \\Ability to degrade PrP if a protein binder is found (through one of protein degradation methodologies available today, i.e. von Hippel-Lindau tumor suppressor- or cereblon-recruiting chemical inducers of proximity) presents a unique therapeutic opportunity in this important area. There are now studies under way that attempt to lower the amount of PrP by sequestering the PrP mRNA through a complementary oligo-nucleotide interference. \\
+This proposal will look at PrP's ability to bind copper and other heavy metals as a starting point to design selective small molecule binders. These binders can then be elaborated into ``recruiters'' for protein ubiquitylation and subsequent destruction via protein degradation machinery. Exploring the metal-binding ability of PrP will also shed new light on its basic function and may also present a chemical explanation for the toxicity of PrP aggregates in brain. Clear answer to why protein aggregates would lead to massive death of neurons is still eluding the researchers. Considering metal homeostasis in brain and the ability of certain metals to ``catalytically'' oxidize carbon--hydrogen bonds in brain lipids will provide a molecular mechanism-of-action piece of this puzzle.\\
+\section{COBRE CBID Core Labs utilization}\\
+This project would rely heavily on protein expression and assay development through the Chemical Biology for Infectious Diseases core labs. Specifically, PrP protein (native or isotopically-enriched) will need to be expressed and purified for binding studies based on NMR. Assays that measure the behavior of PrP in cellular environment would need to be developed. Understanding the ligating ability of the unstructured region of PrP would require sophisticated modeling approach. \\
+\vspace{0.25in}
+\closing{Sincerely yours,\\
+\includegraphics[scale=0.75]{../../../signature.png}}
+
+\end{letter}
+ 
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
