@@ -1,7 +1,7 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  13 JUN 2018 14:18
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.5.22)  13 JUN 2018 14:54
  restricted system commands enabled.
-**letter_of_intent.tex
-(./letter_of_intent.tex
+**reviewers.tex
+(./reviewers.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/letter.cls
@@ -180,8 +180,8 @@ and I'll forget about whatever was undefined.
 Package titlesec Warning: Non standard sectioning command detected
 (titlesec)                Using default spacing and no format.
 
-) (./letter_of_intent.aux)
-\openout1 = letter_of_intent.aux
+) (./reviewers.aux)
+\openout1 = reviewers.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -301,136 +301,63 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 38.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.48 \section{Eligibility criteria}
-                                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+! Undefined control sequence.
+l.58 Web site: \url
+                 {https://www.niaid.nih.gov/research/byron-caughey-phd}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.48 \section{Eligibility criteria}
-                                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+! Undefined control sequence.
+l.64 Web site: \url
+                 {https://genetics.wisc.edu/staff/eide-david/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <0> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
-! Improper `at' size (0.0pt), replaced by 10pt.
-<to be read again> 
-relax 
-l.48 \section{Eligibility criteria}
-                                 
-I can only handle fonts at positive sizes that are
-less than 2048pt, so I've changed what you said to 10pt.
+! Undefined control sequence.
+l.71 Web site: \url
+                 {https://www.bumc.bu.edu/biochemistry/profiles/david-a-harr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.50 \section{Nature or focus of the research}
-                                            
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+! Undefined control sequence.
+l.78 Web site: \url
+                 {https://millhauser.chemistry.ucsc.edu/}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.50 \section{Nature or focus of the research}
-                                            
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+[1
 
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.53 \section{COBRE CBID Core Labs utilization}
-                                             
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.53 \section{COBRE CBID Core Labs utilization}
-                                             
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-(./letter_of_intent.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 54--1
-
- []
-
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.1 \begin{thebibliography}{1}
-                            
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-p
-l.1 \begin{thebibliography}{1}
-                            
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-! LaTeX Error: \newblock undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \begin{thebibliography}{1}
-                            
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 6.
-) <../../../signature.png, id=1, 125.46875pt x 35.13126pt>
-File: ../../../signature.png Graphic file (type png)
-
-<use ../../../signature.png>
-Package luatex.def Info: ../../../signature.png used on input line 57.
-(luatex.def)             Requested size: 94.10132pt x 26.34836pt.
- [1
-
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<../../../
-signature.png>] (./letter_of_intent.aux))
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./reviewers.aux))
 
 Here is how much of LuaTeX's memory you used:
- 2735 strings out of 495119
+ 2691 strings out of 495119
  100000,106986 words of node,token memory allocated
  479 words of node memory still in use:
    2 hlist, 1 vlist, 1 rule, 26 glue, 39 glue_spec, 1 write nodes
-   avail lists: 2:15,3:110,4:19,5:243,6:3607,7:775,8:14,9:98,10:13,11:358
- 6128 multiletter control sequences out of 65536+600000
- 42 fonts using 1747679 bytes
- 38i,7n,28p,1301b,236s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 2:15,3:124,4:5,5:105,6:1193,7:340,8:4,9:79,10:4,11:85
+ 6107 multiletter control sequences out of 65536+600000
+ 35 fonts using 1458711 bytes
+ 38i,6n,23p,273b,211s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on letter_of_intent.pdf (1 page, 42029 bytes).
+ive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on reviewers.pdf (1 page, 21721 bytes).
 
-PDF statistics: 27 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+PDF statistics: 17 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
