@@ -1,0 +1,7 @@
+Stain	Channel Name	Excitation/Emission Wavelength (nm)	Cellular Compartment(s)
+Hoechst	DAPI	387/447	Nucleus
+Concanavalin A	GFP	472/520	Endoplasmic reticulum  
+SYTO 14	Cy3	531/593	Nucleolus
+WGA	TexasRed	562/642	Golgi/plasma membrane
+Phalloidin	TexasRed	562/642	F-actin
+MitoTracker DR	Cy5	628/692	Mitochondria

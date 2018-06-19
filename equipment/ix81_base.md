@@ -1,0 +1,10 @@
+- Olympus
+- Heather Shinogle in charge
+- infrared focusing
+- Xe-based source
+- many filters
+- 2k x 2k camera
+- software: 
+- automated imaging of one plate, manual plate exchange
+- train a user (PI or a trainee)
+- current costs: instrument usage $20/hour; personnel $75/hour 
